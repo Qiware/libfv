@@ -1,0 +1,17 @@
+*.o
+*.log
+*.log2
+*.lck
+*.html
+*.htm
+*.list
+*.info
+*.bak
+bin/*
+lib/*
+tmp/*
+log/*
+temp/*
+tags
+stderr
+cscope.*
